@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/zT3bb285/blog-1.jpg",
+        "title": "Exploring the Future of AI",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/RM85H7w/author-1.jpg",
+        "post_date": "2025-02-01",
+        "reading_time": 10,
+        "hashtags": [
+            "#AI",
+            "#FutureTech",
+            "#Innovation"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/8nKNSpRx/blog-2.jpg",
+        "title": "The Rise of Electric Vehicles",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co.com/TxtNJRWd/author-2.jpg",
+        "post_date": "2025-01-20",
+        "reading_time": 5,
+        "hashtags": [
+            "#EV",
+            "#Sustainability",
+            "#GreenEnergy"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/NbLgfC8/blog-3.jpg",
+        "title": "Mastering Python for Data Science",
+        "author": "Alex Johnson",
+        "author_img": "https://i.ibb.co.com/MyWGPz9g/author-3jpg.jpg",
+        "post_date": "2025-01-15",
+        "reading_time": 8,
+        "hashtags": [
+            "#Python",
+            "#DataScience",
+            "#MachineLearning"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/Zpnbmhdk/blog-4.jpg",
+        "title": "Top 10 Travel Destinations in 2025",
+        "author": "Emily Carter",
+        "author_img": "https://i.ibb.co.com/k2ZtJxys/author-5.jpg",
+        "post_date": "2025-01-25",
+        "reading_time": 15,
+        "hashtags": [
+            "#Travel",
+            "#Wanderlust",
+            "#BucketList"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/yFXp7HN8/blog-5.jpg",
+        "title": "How to Stay Productive While Working Remotely",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co.com/6RrH7g2w/authro-4.jpg",
+        "post_date": "2025-02-05",
+        "reading_time": 12,
+        "hashtags": [
+            "#RemoteWork",
+            "#Productivity",
+            "#WorkFromHome"
+        ]
+    }
+]

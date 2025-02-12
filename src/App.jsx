@@ -1,12 +1,18 @@
- 
-import './App.css'
 
-function App() { 
+import './App.css'
+import Blogs from './Components/Blogs/Blogs'
+import Bookmarks from './Components/Booknarks/Bookmarks'
+import Header from './Components/Header/Header'
+
+function App() {
 
   return (
     <>
-      
-      <h1 className='text-6xl bg-green-500 text-white py-2 px-8'>Vite + React</h1> 
+      <Header></Header>
+      <div className="flex items-center">
+        <Blogs></Blogs>
+        <Bookmarks></Bookmarks>
+      </div>
     </>
   )
 }
